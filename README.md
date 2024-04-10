@@ -3,7 +3,7 @@
 During [EthDam](https://www.ethdam.com/), up to $2k are to be the won for the best project(s) using [Slither](https://github.com/crytic/slither) (see [ethdam hackathon rules](https://docs.google.com/document/d/1wpQ7XYZE5wTUW5wRCzHPaHNYfsh16xUPwf6WvlbuZlc/edit#heading=h.mzzlyq3xgrer)) 
 
 ## Ressources
-- [Pre event workshop](https://lu.ma/ToB) ([pre-event-workshop.pdf](./pre-event-workshop.pdf))
+- [Pre event workshop]([https://lu.ma/ToB](https://www.youtube.com/watch?v=Ijf0pellvgw)) ([pre-event-workshop.pdf](./pre-event-workshop.pdf))
 - On site event
  - `Slither: introduction to custom analysis - Trail of Bits` - 3:15pm, Studio
 - [Slither](https://github.com/crytic/slither)
@@ -33,7 +33,9 @@ You do not need to follow the examples provided, we are also looking for ideas a
 
 ## Submission process
 
-TBD
+
+- Register by creating a github issue
+- TBD
 
 ## Requirements
 
