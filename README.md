@@ -8,6 +8,7 @@ During [EthDam](https://www.ethdam.com/), up to $2k are to be the won for the be
 - [Slither](https://github.com/crytic/slither) - Github repo
 - [Slither API walkthrough (video)](https://www.youtube.com/watch?v=Ijf0pellvgw) ([slides](./pre-event-workshop.pdf))
 - [secure-contracts.com/slither](https://secure-contracts.com/program-analysis/slither/index.html) - exercises and tutorials on Slither's API
+  - [API's basics](https://secure-contracts.com/program-analysis/slither/api.html)  
 - [Ethdam's discord]( https://discord.com/invite/XJVjpCqQBz): #trail-of-bits
 
 ## Themes
