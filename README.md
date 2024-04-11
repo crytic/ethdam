@@ -3,12 +3,12 @@
 During [EthDam](https://www.ethdam.com/), up to $2k are to be the won for the best project(s) using [Slither](https://github.com/crytic/slither) (see [ethdam hackathon rules](https://docs.google.com/document/d/1wpQ7XYZE5wTUW5wRCzHPaHNYfsh16xUPwf6WvlbuZlc/edit#heading=h.mzzlyq3xgrer)) 
 
 ## Ressources
-- [Pre event workshop]([https://lu.ma/ToB](https://www.youtube.com/watch?v=Ijf0pellvgw)) ([pre-event-workshop.pdf](./pre-event-workshop.pdf))
 - On site event
- - `Slither: introduction to custom analysis - Trail of Bits` - 3:15pm, Studio
-- [Slither](https://github.com/crytic/slither)
-- [Slither code walkthrough](https://www.youtube.com/watch?v=EUl3UlYSluU)
-- [secure-contracts.com/slither](https://secure-contracts.com/program-analysis/slither/index.html)
+  - `Slither: introduction to custom analysis - Trail of Bits` - 3:15pm, Studio
+- [Slither](https://github.com/crytic/slither) - Github repo
+- [Slither API walkthrough (video)](https://www.youtube.com/watch?v=Ijf0pellvgw) ([slides](./pre-event-workshop.pdf))
+- [secure-contracts.com/slither](https://secure-contracts.com/program-analysis/slither/index.html) - exercises and tutorials on Slither's API
+- [Ethdam's discord]( https://discord.com/invite/XJVjpCqQBz): #trail-of-bits
 
 ## Themes
 
@@ -33,7 +33,7 @@ You do not need to follow the examples provided, we are also looking for ideas a
 
 ## Registration process
 
-Registration is optional, but we can help you better if you know about your team.
+Registration is optional, but we can help you better if we know about your team.
 
 To register, send a DM on discord to `josselin_trailofbits` with the team name and the members list (ex: github username + discord usernames).
 
