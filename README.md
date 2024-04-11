@@ -15,7 +15,7 @@ During [EthDam](https://www.ethdam.com/), up to $2k are to be the won for the be
 We look for projects exploring one of these themes:
 
 - UX/UI: leverage slither through an interfaces. Ex:
-  - TBD 
+  - Adapt [`slither-lsp`](https://github.com/crytic/slither-lsp) and its new vscode plugin with a new handler (see TUTO)  
 - On-chain monitoring (aka [slither-read-storage](https://github.com/crytic/slither/blob/master/slither/tools/read_storage/README.md) on steroids). Ex:
   - Show the state variables evolution over time/block number
   - Show the contract relationship (caller, called, what functions are called, etc)
@@ -31,11 +31,12 @@ You do not need to follow the examples provided, we are also looking for ideas a
 - Novelty
 - Reliance on slither (the more the project extends and uses slither, the better)
 
-## Submission process
+## Registration process
 
+Registration is optional, but we can help you better if you know about your team.
 
-- Register by creating a github issue
-- TBD
+To register, send a DM on discord to `josselin_trailofbits` with the team name and the members list (ex: github username + discord usernames).
+
 
 ## Requirements
 
