@@ -4,7 +4,7 @@ During [EthDam](https://www.ethdam.com/), up to $2k are to be the won for the be
 
 ## Ressources
 - On site event
-  - `Slither: introduction to custom analysis - Trail of Bits` - 3:15pm, Studio
+  - `Slither: introduction to custom analysis - Trail of Bits` - 3:15pm, Studio ([slides](2024-04-12%20-%20Slither%20-%20EthDAM%20(workshop).pdf))
 - [Slither](https://github.com/crytic/slither) - Github repo
 - [Slither API walkthrough (video)](https://www.youtube.com/watch?v=Ijf0pellvgw) ([slides](./pre-event-workshop.pdf))
 - [secure-contracts.com/slither](https://secure-contracts.com/program-analysis/slither/index.html) - exercises and tutorials on Slither's API
